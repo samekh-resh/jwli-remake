@@ -321,6 +321,25 @@ footer form button{
     .hide{
         display:none;
     }
+    .jwlitext{
+        margin-left:auto;
+        margin-right:auto;
+        width:100%;
+    }
+    .jwlilogo{
+        height:20%;
+        width:50%;
+        margin-left:25%;
+    }
+    .historyText{
+        width: 100%;
+    }
+    .duoboxes{
+        width:100%;
+        float:none;
+        padding-right:1%;
+        padding-left:1%;
+    }
     .subscriptionbox{
         height:80px;
     }
@@ -333,9 +352,9 @@ footer form button{
     header li{
         padding: 0% 2% 0% 2%;
     }
-    .hide{
+    /* .hide{
         display:none;
-    }
+    } */
     .bigfootborder{
         height: 230px;
     }
