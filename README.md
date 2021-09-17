@@ -1,8 +1,9 @@
 # jwli-remake
+A remake of another website, the Japanese Women's Leadership Institute
 
 <b>link to project:</b> https://jwli-remake.netlify.app/
 
-<img width="1440" alt="Screen Shot 2021-09-15 at 12 57 00 PM" src="https://user-images.githubusercontent.com/89406408/133481448-31d46f70-b5dc-4106-97ec-d6d059953ee5.png">
+<img width="1440" alt="#" src="simple.png">
 
 ### How It’s Made
 <b>Langs used</b> Html5 and CSS3
