@@ -3,7 +3,7 @@ A remake of another website, the Japanese Women's Leadership Institute
 
 <b>link to project:</b> https://jwli-remake.netlify.app/
 
-<img width="1440" alt="#" src="simple.png">
+<img width="1440" alt="#" src="Screen Shot 2021-09-17 at 12.54.13 AM.png">
 
 ### How It’s Made
 <b>Langs used</b> Html5 and CSS3
